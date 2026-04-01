@@ -613,6 +613,17 @@ a {
   font-size: 0.92rem;
 }
 
+.footer-info {
+  font-style: normal;
+  text-align: right;
+}
+
+.footer-info p {
+  margin: 0;
+  font-size: 0.82rem;
+  color: rgba(86, 97, 92, 0.6);
+}
+
 .reveal {
   opacity: 0;
   transform: translateY(2rem);
